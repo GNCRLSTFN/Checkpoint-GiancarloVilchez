@@ -1,0 +1,61 @@
+  319  git init
+  320  git add remote origin "https://github.com/GNCRLSTFN/Checkpoint16-08.git"
+  321  git remote add origin "https://github.com/GNCRLSTFN/Checkpoint16-08.git"
+  322  touch main.js index.html
+  323  git status
+  324  git add .
+  325  git status
+  326  git commit -m "Commit 01 de Giancarlo Vilchez"
+  327  git config user.name "GNCRLSTFN"
+  328  git config user.email "gstefanovn@gmail.com"
+  329  git commit -m "Commit 01 de Giancarlo Vilchez"
+  330  git branch feature
+  331  git ckeckout main
+  332  git checkout feature
+  333  mkdir Hardware Software SeguridadInformatica
+  334  ls
+  335  cd Hardware
+  336  touch resumen.txt
+  337  cd .
+  338  cd ..
+  339  cd Software
+  340  touch resumen.txt
+  341  cd ..
+  342  SeguridadInformatica
+  343  cd SeguridadInformatica
+  344  touch resumen.txt
+  345  git status
+  346  cd ..
+  347  git status
+  348  git add .
+  349  git push origin main
+  350  git status
+  351  git commit -m "commit 02 de Giancarlo Vilchez"
+  352  git status
+  353  git status origin main
+  354  git push origin main
+  355  git checkout main
+  356  git push origin main
+  357  git status
+  358  git remote -v
+  359  git push origin main
+  360  git ckeckout feature
+  361  git checkout feature
+  362  git status
+  363  git fetch origin main
+  364  git checkout main
+  365  git push origin main
+  366  git status
+  367  git push origin main
+  368  git push -f origin main
+  369  git push origin main
+  370  git checkout feature
+  371  git push origin main
+  372  git checkout main
+  373  mv main.js resumenHardware.txt
+  374  mv index.html resumenSoftware.txt
+  375  ls}
+  376  ls
+  377  cd resumenSoftware.txt
+  378  touch comandos.txt
+  379  history
